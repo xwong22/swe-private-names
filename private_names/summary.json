@@ -1,0 +1,76 @@
+{
+ "swe_rebench_v2_python": {
+  "analysed": 7203,
+  "flagged": 1749,
+  "clean": 5454,
+  "any_mention": 2374,
+  "flagged_resolved_by_interface": 1434,
+  "by_language": {
+   "python": {
+    "analysed": 7203,
+    "flagged": 1749
+   }
+  }
+ },
+ "swe_rebench_v2_otherlang_sample": {
+  "analysed": 8542,
+  "flagged": 1629,
+  "clean": 6913,
+  "any_mention": 2599,
+  "flagged_resolved_by_interface": 1322,
+  "by_language": {
+   "go": {
+    "analysed": 1667,
+    "flagged": 701
+   },
+   "java": {
+    "analysed": 861,
+    "flagged": 212
+   },
+   "js": {
+    "analysed": 1515,
+    "flagged": 218
+   },
+   "kotlin": {
+    "analysed": 752,
+    "flagged": 91
+   },
+   "php": {
+    "analysed": 904,
+    "flagged": 114
+   },
+   "rust": {
+    "analysed": 1378,
+    "flagged": 50
+   },
+   "ts": {
+    "analysed": 1465,
+    "flagged": 243
+   }
+  }
+ },
+ "swe_bench_full": {
+  "analysed": 2294,
+  "flagged": 115,
+  "clean": 2179,
+  "any_mention": 223
+ },
+ "swe_bench_verified": {
+  "analysed": 500,
+  "flagged": 8,
+  "clean": 492,
+  "any_mention": 14
+ },
+ "swe_bench_lite": {
+  "analysed": 300,
+  "flagged": 2,
+  "clean": 298,
+  "any_mention": 7
+ },
+ "swe_rebench_v1_openhands_traj": {
+  "analysed": 5557,
+  "flagged": 278,
+  "clean": 5279,
+  "any_mention": 740
+ }
+}
